@@ -2,15 +2,21 @@
   "posts": [
     {
       "id": 1,
-      "title": "Post 1"
+      "title": "Post 1",
+      "description": "some text of my test hihi",
+      "img": "img/first.png"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "title": "Post 2",
+      "description": "some text of my test hihi",
+      "img": "img/first.png"
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "title": "Post 3",
+      "description": "some text of my test hihi",
+      "img": "img/first.png"
     }
   ]
 }
