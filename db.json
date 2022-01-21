@@ -4,7 +4,7 @@
       "id": 1,
       "title": "Post 1",
       "description": "some text of my test hihi",
-      "img": "img/first.png"
+      "img": "![Kiku](images/Kiku.jpg)"
     },
     {
       "id": 2,
