@@ -4,7 +4,7 @@
       "id": 1,
       "title": "Post 1",
       "description": "some text of my test hihi",
-      "img": "https://github.com/Immortallol/JSONServer/blob/main/img/first.png"
+      "img": "https://github.com/Immortallol/JSONServer/blob/main/img/first.png?raw=true"
     },
     {
       "id": 2,
